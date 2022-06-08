@@ -2,7 +2,7 @@
 ## Overview and Purpose:
 In this challenge we are given a dataset consisting of stock prices and volumes recorded over two years. The data in organized on two sheets, separating data recorded in 2017 and data recorded in 2018. The goal of the challenge is to create a VBA Macro calculating the total daily volume and return percentage of each type of stock over each year, that runs more efficiently than the Macro we created while completing Module 2. 
 
-### Method:
+### Methods:
 Our method of finding which Macro runs more efficiently is using the timer function to find how many seconds it took for the Macro to run. The timer begins after inputting which year, 2017 or 2018, we want the Macro to run for in the InputBox. The timer stops at the very end of the Macro, after the results have been entered in the Stock Analysis sheet and the sheet has been formatted. 
 
 ## Results:
