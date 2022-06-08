@@ -7,12 +7,12 @@ Our method of finding which Macro runs more efficiently is using the timer funct
 
 ## Results:
 By following the guidelines given in the Challenge Starter Code I was able to code a Macro that runs faster than the AllStockAnalysis Macro created while following the Module 2 instructions. 
-When running the AllStockAnalysis Macro for the 2017 sheet the analysis was completed in 0.4453125 seconds. This can be seen in the image: 
-When the refactored Macro, AllStockAnalysisRefactored, was run for the 2017 sheet the analysis was completed in only 0.296875 seconds. This can be seen in image:
+When running the AllStockAnalysis Macro for the 2017 sheet the analysis was completed in 0.4453125 seconds. This can be seen in the image titled Unrefactored_Code_2017: ![Unrefactored_Code_2017](Unrefactored_Code_2017.png) 
+When the refactored Macro, AllStockAnalysisRefactored, was run for the 2017 sheet the analysis was completed in only 0.296875 seconds. This can be seen in image titled VBA_Challenge_2017: ![VBA_Challenge_2017](VBA_Challenge_2017.png) 
 
 The same trend was seen when running both Macros for the 2018 sheet.
-When running the AllStockAnalysis Macro for the 2018 sheet the analysis was completed in 0.40625 seconds. This can be seen in the image: 
-When the AllStockAnalysisRefactored Macro was run for the 2018 sheet the analysis was completed in only 0.3007812 seconds. This can be seen in image:
+When running the AllStockAnalysis Macro for the 2018 sheet the analysis was completed in 0.40625 seconds. This can be seen in the image titled Unrefactored_Code_2018: ![Unrefactored_Code_2018](Unrefactored_Code_2018.png)
+When the AllStockAnalysisRefactored Macro was run for the 2018 sheet the analysis was completed in only 0.3007812 seconds. This can be seen in image titled VBA_Challenge_2018: ![VBA_Challenge_2018](VBA_Challenge_2018.png)  
 
 From these results I concluded that when running for the 2017 sheet the AllStockAnalysisRefactored Macro completed 33% faster than the AllStockAnalysis Macro. For the 2018 sheet the refactored Macro completed 26% faster than the original Macro. These figures show that I was able to successfully meet the goal of the challenge by creating a Macro that runs more efficiently than the original Macro created while following the Module 2 lessons. 
 
